@@ -1,1 +1,1 @@
-This is he grid of our robot´s world.
+This is the grid of our robot´s world.
